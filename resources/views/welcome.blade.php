@@ -12,6 +12,7 @@
             <div class="content">
                 @livewire('counter')
                 @livewire('model-binding')
+                @livewire('todo')
             </div>
         </div>
     @livewireAssets
