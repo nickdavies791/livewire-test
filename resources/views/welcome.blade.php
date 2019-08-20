@@ -3,7 +3,6 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
         <title>Laravel</title>
 
     </head>
@@ -14,6 +13,7 @@
                 @livewire('model-binding')
                 @livewire('todo')
                 @livewire('poll-actions')
+                @livewire('loading-states')
             </div>
         </div>
     @livewireAssets
