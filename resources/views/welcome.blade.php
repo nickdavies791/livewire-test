@@ -11,6 +11,7 @@
         <div class="flex-center position-ref full-height">
             <div class="content">
                 @livewire('counter')
+                @livewire('model-binding')
             </div>
         </div>
     @livewireAssets
