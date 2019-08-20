@@ -13,6 +13,7 @@
                 @livewire('counter')
                 @livewire('model-binding')
                 @livewire('todo')
+                @livewire('poll-actions')
             </div>
         </div>
     @livewireAssets
