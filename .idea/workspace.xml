@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="878c933f-eb7d-4152-aeb9-49514ffb5fa3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/livewire/model-binding.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/model-binding.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/livewire/model-binding.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="31">
+              <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -237,12 +237,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566305317356</updated>
-      <workItem from="1566305320262" duration="1178000" />
+      <workItem from="1566305320262" duration="1381000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1178000" />
+    <option name="totallyTimeSpent" value="1381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="0" width="1920" height="1080" extended-state="6" />
@@ -311,8 +311,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/livewire/model-binding.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="31">
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
         </state>
       </provider>
     </entry>
